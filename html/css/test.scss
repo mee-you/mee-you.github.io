@@ -1,0 +1,9 @@
+$main-color :#a5cbb2;
+$sub-color:#433;
+$default-font-size : 10px;
+
+.background {
+    background-color:$main-color;
+    font-size: ($default-font-size - 2px );
+
+}
